@@ -54,4 +54,4 @@ yarn start
 
 
 ## Read more
-See Mouna's post: https://www.mouna-neelakanta.com/single-post/2019/09/13/MYOB-Hackathon-2019"
+See Mouna's post: https://www.mouna-neelakanta.com/single-post/2019/09/13/MYOB-Hackathon-2019
