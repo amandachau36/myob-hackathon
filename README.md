@@ -15,13 +15,9 @@ We were seeking to eliminate child labour in company supply chains through using
 
 ## Website (scan QR code)
 
-https://github.com/amandachau36/myob-hackathon/blob/master/public/iPhone.jpg
-
-https://github.com/amandachau36/myob-hackathon/blob/master/public/images/iphone.jpg?raw=true
-
-![iphone](/public/iPhone.jpg)
-![tesla](/public/Tesla.jpg)
-![macbook](/public/Macbook.jpg)
+<img src="/public/iPhone.jpg" width="400px" title="iphone">
+<img src="/public/Tesla.jpg" width="400px" title="Telsa">
+<img src="/public/Macbook.jpg" width="400px" title="Macbook">
 
 ## Getting Started
 
