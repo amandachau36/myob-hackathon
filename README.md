@@ -1,6 +1,7 @@
 # MYOB Hackathon
 
 **5-6 Sept 2019, Sydney**
+
 **Team: Where did it come from?**
 
 We were seeking to eliminate child labour in company supply chains through using blockchain technology.  Our solution included storing and viewing immutable data, and also using QR codes so that consumers (this repo) can view summarised information - increasing visibility and transparency.
@@ -14,9 +15,13 @@ We were seeking to eliminate child labour in company supply chains through using
 
 ## Website (scan QR code)
 
-![iphone](/public/images/iphone.jpg?raw=true)
-![tesla](/public/images/Tesla.jpg?raw=true)
-![macbook](/public/images/Macbook.jpg?raw=true)
+https://github.com/amandachau36/myob-hackathon/blob/master/public/iPhone.jpg
+
+https://github.com/amandachau36/myob-hackathon/blob/master/public/images/iphone.jpg?raw=true
+
+![iphone](/public/iPhone.jpg)
+![tesla](/public/Tesla.jpg)
+![macbook](/public/Macbook.jpg)
 
 ## Getting Started
 
